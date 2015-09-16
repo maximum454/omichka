@@ -772,3 +772,45 @@ p{
 .coatch-txt h3{color: #0f1820;font:normal 22px/30px 'Plumb-Medium',sans-serif;margin: 0; margin-left: 30px;}
 .coatch-txt p{color: #9d9fa2;font:normal 16px/36px 'Plumb-Regular',sans-serif; margin-left: 30px;}
 /**/
+
+/*b-communit*/
+.b-communit{position: relative;margin-bottom: 60px;}
+.b-communit:after{content: '';display: table;clear: both;}
+.b-communit-txt{width: 640px;margin-right: 30px;}
+.b-communit-txt div img:first-child{margin-right: 17px;}
+.b-communit-contact{width: 131px;}
+.b-communit-contact h3{color: #0f1820;font:normal 22px/30px 'Plumb-Medium',sans-serif;margin: 0 0 15px 0;text-transform: uppercase;}
+/**/
+
+/*b-accreditation*/
+.b-accreditation{position: relative;margin-bottom: 60px;}
+.b-accreditation h3{color: #0f1820;font:normal 30px/30px 'Plumb-Medium',sans-serif;text-transform: uppercase; margin-bottom: 15px;}
+.b-accreditation h2{color: #0f1820;font:normal 24px/30px 'Plumb-Medium',sans-serif;text-transform: uppercase;}
+.b-accreditation dl:after{content: '';display: table;clear: both;}
+.b-accreditation dl p{margin: 0;}
+.b-accreditation dt{float: left;}
+.b-accreditation dt p{color: #0f1820;font:normal 24px/30px 'Plumb-Medium',sans-serif;}
+.b-accreditation dd{margin-left: 100px;margin-bottom: 27px;}
+/**/
+
+/*b-superliga*/
+.b-superliga{position: relative;margin-bottom: 60px;}
+.b-superliga:after{content: '';display: table;clear: both;}
+.b-superliga h2{color: #0f1820;font:normal 24px/30px 'Plumb-Medium',sans-serif;text-transform: uppercase;}
+.b-superliga article:after{content: '';display: table;clear: both;}
+.b-superliga figure{float: left; width: 190px;text-align: center;margin-bottom: 40px;}
+.b-superliga figure figcaption p{margin: 0;}
+.b-superliga figure a{color: #0b52b4;font:normal 16px/24px 'Plumb-Medium',sans-serif;}
+.b-superliga figure span{color: #9d9fa2;font:normal 14px/24px 'Plumb-Regular',sans-serif;}
+/**/
+
+/*rules*/
+.b-rules{position: relative;margin-bottom: 60px;}
+.b-rules:after{content: '';display: table;clear: both;}
+.rules{background: #fff;width: 100%;height: 180px; position: relative;overflow: hidden;margin-bottom: 4px;}
+.rules-img{float: left;width: 160px;text-align: center;height: inherit;}
+.rules-txt{float: left;width: 800px; height: inherit;}
+.rules-txt p{color: #0f1820;font:normal 14px/22px 'Plumb-Regular',sans-serif;margin: 10px 0;}
+.rules-txt a{color: #0b52b4;font:normal 16px/24px 'Plumb-Medium',sans-serif;}
+.rules-txt span{color: #9d9fa2;font:normal 14px/24px 'Plumb-Regular',sans-serif;}
+/**/
