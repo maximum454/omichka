@@ -962,12 +962,24 @@ ul.arena li h3{color: #0f1820;font:normal 18px/26px 'Plumb-Medium',sans-serif; t
 .b-tickets{position: relative;margin-bottom: 60px;}
 .b-tickets:after{content: '';display: table;clear: both;}
 .tickets-cal{width: 640px;}
+.tickets-cal h2{color: #0f1820;font:normal 24px/30px 'Plumb-Medium',sans-serif;margin: 25px 0;}
 .tickets-items{width: inherit;height: 140px;background: #fff; overflow: hidden;margin-bottom: 2px;}
 .tickets-items-left{width: 120px; height: inherit; padding-left: 20px;background: #0f1820;float: left;}
 .tickets-items-left h3{color: #fff;font:normal 36px/24px 'Plumb-Medium',sans-serif;text-transform: uppercase;margin: 10px 0 20px;}
 .tickets-items-left p{margin-bottom: 5px;}
 .tickets-items-left span{ color: #9d9fa2;}
+.tickets-items-left .data-red{color:#eb0013;}
 .tickets-items-right{position: relative;width: 480px;height: inherit; float: right;}
-.tickets-items-right h3{color: #0f1820;font:normal 16px/30px 'Plumb-Medium',sans-serif;margin: 0;}
-.ticket-class {position: absolute;right: 0;top: 0;width: 48px;height: 48px;border-left: 1px solid #eee;border-bottom: 1px solid #eee;}
+.tickets-items-right h3{color: #0f1820;font:normal 16px/30px 'Plumb-Medium',sans-serif;margin: 10px 0;}
+.ticket-class {position: absolute;right: 0;top: 0;width: 48px;height: 48px;border-left: 1px solid #eee;border-bottom: 1px solid #eee;text-align: center;}
+.ticket-class p{margin-bottom: 0; color: #0f1820; font:normal 14px/30px 'Plumb-Regular',sans-serif;margin: 0;text-transform: uppercase;}
+.ticket-class .active{color:#eb0013;}
+.ulticket li{ margin-right: 50px;float: left;text-align: center;margin-top: 15px;}
+.ulticket li p{margin-bottom: 5px;}
+.ulticket li:first-child{width: 120px;}
+.ulticket li:last-child{text-align: center;width: 140px;float: right;margin-right: 0;}
+.ulticket li:last-child p{color: #0f1820;font:normal 14px/26px 'Plumb-Medium',sans-serif;margin: 0;text-transform: uppercase; opacity: .5;}
+.tickets-data h2{color: #0f1820;font:normal 24px/30px 'Plumb-Medium',sans-serif;margin: 25px 0;}
+.tickets-data a{border-bottom: 1px dotted;}
+.tickets-data p{margin-bottom: 15px;}
 /**/
