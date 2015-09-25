@@ -972,7 +972,7 @@ ul.arena li h3{color: #0f1820;font:normal 18px/26px 'Plumb-Medium',sans-serif; t
 .tickets-items-right{position: relative;width: 480px;height: inherit; float: right;}
 .tickets-items-right h3{color: #0f1820;font:normal 16px/30px 'Plumb-Medium',sans-serif;margin: 10px 0;}
 .ticket-class {position: absolute;right: 0;top: 0;width: 48px;height: 48px;border-left: 1px solid #eee;border-bottom: 1px solid #eee;text-align: center;}
-.ticket-class p{margin-bottom: 0; color: #0f1820; font:normal 14px/30px 'Plumb-Regular',sans-serif;margin: 0;text-transform: uppercase;}
+.ticket-class p{color: #0f1820; font:normal 14px/30px 'Plumb-Regular',sans-serif;margin: 0;text-transform: uppercase;}
 .ticket-class .active{color:#eb0013;}
 .ulticket li{ margin-right: 50px;float: left;text-align: center;margin-top: 15px;}
 .ulticket li p{margin-bottom: 5px;}
@@ -982,4 +982,20 @@ ul.arena li h3{color: #0f1820;font:normal 18px/26px 'Plumb-Medium',sans-serif; t
 .tickets-data h2{color: #0f1820;font:normal 24px/30px 'Plumb-Medium',sans-serif;margin: 25px 0;}
 .tickets-data a{border-bottom: 1px dotted;}
 .tickets-data p{margin-bottom: 15px;}
+/**/
+
+/*b-media*/
+.b-media{position: relative;margin-bottom: 40px;}
+.b-media:after{content: '';display: table;clear: both;}
+#media{margin: 0 auto;}
+.media-item { width: 310px; height: 215px; float: left; position: relative; margin: 0  0 15px; overflow: hidden;}
+.media-item.m-big { width: 635px; height: 445px; overflow: hidden;}
+.mi-caption{width: 250px;height: inherit;padding:0 30px; position: absolute;top: 0;}
+.mi-caption h3{color: #fff;font:normal 16px/24px 'Plumb-Medium',sans-serif;text-transform: uppercase;margin:30px 0 0;}
+.mi-caption p>span{color: #8b8b8b; font:normal 14px/30px 'Plumb-Regular',sans-serif;margin: 0;}
+.mi-bottom{position: absolute;bottom: 20px;}
+.mi-bottom li{display: inline-block; margin-right: 30px;}
+.mi-bottom li p{margin-bottom: 0; color: #fff;font:normal 14px/24px 'Plumb-Regular',sans-serif;}
+.mi-bottom li img{margin-right: 10px;}
+.mi-caption .play{ color: #fff;}
 /**/
